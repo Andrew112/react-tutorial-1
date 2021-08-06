@@ -8,5 +8,7 @@
 			"path": "..\\https-github.com-Andrew112-React-tutorial"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "react-tutorial"
+	}
 }
